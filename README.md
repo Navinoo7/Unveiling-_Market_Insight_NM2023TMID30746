@@ -5,3 +5,5 @@ Dashboard public link - https://public.tableau.com/views/Wholesalecustomersdataa
 
 
  story public link - https://public.tableau.com/views/WholesalecustomersdataandDashboardstory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+video Demonstartion link -
